@@ -48,7 +48,7 @@ This project analyzes IPL matches and deliveries data to find insights about top
 
 ## 📸 Dashboard
 
-![Dashboard](IPL Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
